@@ -1,0 +1,34 @@
+:root {
+  --ink-950: #07090d;
+  --ink-900: #0a0d13;
+  --ink-850: #0d1119;
+  --ink-800: #11161f;
+  --ink-700: #182030;
+  --paper: #f2eee4;
+  --ink-on-paper: #14171e;
+  --text: #eceae2;
+  --text-muted: #9aa1ad;
+  --text-faint: #6d7480;
+  --gold: #e2a63d;
+  --gold-bright: #f0bd5e;
+  --gold-deep: #a4741f;
+  --gold-ink: #1a1204;
+  --steel: #7d8db0;
+  --line: rgba(226, 230, 238, 0.08);
+  --line-strong: rgba(226, 230, 238, 0.17);
+  --font-display: 'Fraunces Variable', Georgia, serif;
+  --font-sans: 'Instrument Sans Variable', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SFMono-Regular', Menlo, monospace;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+  --motion-fast: 160ms;
+  --motion-medium: 320ms;
+  --motion-slow: 700ms;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --container: 76rem;
+  --gutter: clamp(1.25rem, 4vw, 3rem);
+  --section-pad: clamp(5rem, 11vw, 9rem);
+  --nav-h: 76px;
+}
